@@ -1,1 +1,1 @@
-
+alert("Site em desenvolvimento...");
